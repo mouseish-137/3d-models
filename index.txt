@@ -19,3 +19,5 @@ Model list:
 12 - Triangle Bank
 13 - Colton Corner
 14 - Narrow Kicker with Deck
+15 - Wide Launch Ramp (Work in Progress)
+16 - Triangle Bank Launch Ramp (Work in Progress)
