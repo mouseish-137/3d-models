@@ -1,23 +1,27 @@
 Model numbers for the fingerboard obstacles are three digits and follow the key below:
 
-0xx = Models optimized for 50% scale use
-7xx = Models optimized for 70% scale use
-9xx = Models optimized for 100% scale use
-
 Model list:
-01 - Stairset Ledge with Hubba
-02 - Wave Ledge
-03 - Curved Parking Curb
-04 - Volcano
-05 - Kicker
-06 - Parking Curb
-07 - Mini Kicker
-08 - Box Fiver 
-09 - Quarter Pipe
-10 - Grind Box
-11 - Crkd Ledge
-12 - Triangle Bank
-13 - Colton Corner
-14 - Narrow Kicker with Deck
-15 - Wide Launch Ramp (Work in Progress)
-16 - Triangle Bank Launch Ramp (Work in Progress)
+x01 - Stairset Ledge with Hubba
+x02 - Wave Ledge
+x03 - Curved Parking Curb
+x04 - Volcano
+x05 - Kicker
+x06 - Parking Curb
+x07 - Mini Kicker
+x08 - Box Fiver 
+x09 - Quarter Pipe
+x10 - Grind Box
+x11 - Crkd Ledge
+x12 - Triangle Bank
+x13 - Colton Corner
+x14 - Narrow Kicker with Deck
+x15 - Wide Launch Ramp (Work in Progress)
+x16 - Triangle Bank Launch Ramp (Work in Progress)
+
+Model scale identification for gcode files:
+0xx = Models optimized for 50% scale use
+1xx = Models optimized for 100% scale use
+7xx = Models optimized for 70% scale use
+
+Using this naming convention, others will easily be able to identify a model using its 2 (*.stl) or 3 (*.gcode) digit numerical ID.
+For example, any asset with the identification number of 704 would be undderstood to be a Volcano model sliced at 70% scale.
