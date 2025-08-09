@@ -16,7 +16,7 @@ x12 - Triangle Bank
 x13 - Colton Corner
 x14 - Narrow Kicker with Deck
 x15 - Wide Launch Ramp (Work in Progress)
-x16 - Triangle Bank Launch Ramp (Work in Progress)
+x16 - Triangle Launch Ramp (Work in Progress)
 
 Model scale identification for gcode files:
 0xx = Models optimized for 50% scale use
