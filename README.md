@@ -7,4 +7,4 @@ Each category contains a stl directory as well as a gcode directory for my prefe
 The gcode is sliced for a stock Ender 3 printer with a 0.2mm nozzle, 235C nozzle temp and 74C bed temp.
 Because of the differneces in each users printer and filament, I suggest using the stl files and slicing to best fit your needs.
 
-Feel free to use this stuff for personal projects but try not to sell anything if you didn't make it  <3
+Feel free to use this stuff for personal projects but try not to sell anything if you didn't make it or fix it first  <3
