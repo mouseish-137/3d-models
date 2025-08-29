@@ -19,6 +19,8 @@ x15 - Wide Launch Ramp
 x16 - Triangle Launch Ramp
 x17 - Curved Bleachers
 x18 - Straight Rail
+x19 - Miami Triangle
+x20 - Launch Ramp with Deck
 
 Model scale identification for gcode files:
 0xx = Models optimized for 50% scale use
