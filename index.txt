@@ -29,4 +29,4 @@ Model scale identification for gcode files:
 7xx = Models optimized for 70% scale use
 
 Using this naming convention, others will easily be able to identify a model using its 2 (*.stl) or 3 (*.gcode) digit numerical ID.
-For example, any asset with the identification number of 704 would be undderstood to be a Volcano model sliced at 70% scale.
+For example, any asset with the identification number of 704 would be understood to represent a Volcano model sliced at 70% scale.
