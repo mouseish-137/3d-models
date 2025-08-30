@@ -21,6 +21,7 @@ x17 - Curved Bleachers
 x18 - Straight Rail
 x19 - Miami Triangle
 x20 - Launch Ramp with Deck
+x21 - Corner Rail
 
 Model scale identification for gcode files:
 0xx = Models optimized for 50% scale use
